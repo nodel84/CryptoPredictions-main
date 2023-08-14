@@ -1,6 +1,7 @@
 import logging
 import os
 
+from data_loader.indicators import *
 from backtesting import Strategy, Backtest
 from backtest.strategies import Strategies
 import pandas as pd
@@ -9,7 +10,6 @@ import hydra
 from omegaconf import DictConfig
 from utils.reporter import Reporter
 from path_definition import HYDRA_PATH
-from data_loader.indicators import *
 import numpy as np
 
 df = None
