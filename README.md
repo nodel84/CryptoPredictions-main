@@ -19,7 +19,7 @@ The exclusive benefits of CryptoPredictions are:
 
 * While some models may perform exceptionally well in terms of accuracy, they often require a well-defined strategy for successful trading. Our backtester can help you determine the effectiveness of your model in real-world scenarios.
 
-* We understand that evaluating models can be challenging, which is why we offer a variety of metrics to help you measure progress towards accomplishing your tasks. By analyzing multiple metrics, you can identify areas for improvement and correct what is not working. To learn more about the pros and cons of each metric, please refer to the metrics section [here](https://github.com/alimohammadiamirhossein/CryptoPredictions/blob/main/Report.pdf).
+* We understand that evaluating models can be challenging, which is why we offer a variety of metrics to help you measure progress towards accomplishing your tasks. By analyzing multiple metrics, you can identify areas for improvement and correct what is not working. To learn more about the pros and cons of each metric, please refer to the metrics section [here](https://github.com/nodel84/CryptoPredictions-main/blob/main/Report.pdf).
 
 * At CryptoPredictions, we do not fetch indicators from different websites, because it leads to problems such as null rows and the lack of information on indicators for all cryptocurrencies. Instead, CryptoPredictions calculates them in a way that doesn't carry the mentioned problems and could be generalized to other datasets.
 
@@ -84,7 +84,7 @@ If you have any issues and errors install hydra like below:
 ```bash
 pip install hydra-core --upgrade
 ```
-for more information about Hydra and config files please visit [here](https://github.com/alimohammadiamirhossein/CryptoPredictions/blob/main/Documents/ARGS_README.md#Hydra).
+for more information about Hydra and config files please visit [here](https://github.com/nodel84/CryptoPredictions-main/blob/main/Documents/ARGS_README.md#Hydra).
 
 # Dataset
 
@@ -150,13 +150,9 @@ As a conclusion, we tested models using different cryptocurrencies on the variou
 
 ![image](https://user-images.githubusercontent.com/45646480/233838187-1d80c7d9-46d1-4072-a67e-1ba69c4f4268.png)
 
-You can see other graphs [here](https://github.com/alimohammadiamirhossein/CryptoPredictions/blob/main/Documents/results.md).
+You can see other graphs [here](https://github.com/nodel84/CryptoPredictions-main/blob/main/Documents/results.md).
 
 
 # Report
 
-To gain a better understanding of the models, metrics, and validation method used in this library, we prepared a report and you can read it from [here](https://github.com/alimohammadiamirhossein/CryptoPredictions/blob/main/CryptoPredictions.pdf).
-
-
-
-
+To gain a better understanding of the models, metrics, and validation method used in this library, we prepared a report and you can read it from [here](https://github.com/nodel84/CryptoPredictions-main/blob/main/CryptoPredictions.pdf).
