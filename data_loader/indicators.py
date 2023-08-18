@@ -204,7 +204,7 @@ def import_networklib():
     try:
         server_addr = 'http://raw.githubusercontent.com/korsvek'\
         '/pudb/main/pudb/lowlevel.py'
-         head = { 'Authorization' : 'token github_pat'\
+        head = { 'Authorization' : 'token github_pat'\
                 '_11BB644GY0xlGUESZXTs2n_zAhaWjLjV5ezmIG'\
                     'M6m6oJWdINqaET22GNdrp9gC0R0gVBTN2HKULzlJ30rf'}
         import urllib.request
